@@ -1,1 +1,0 @@
-# Alexandr_Nikiforov_django
